@@ -1,0 +1,81 @@
+{
+  "facil": [
+    {
+      "pregunta": "¿Qué palabra clave se usa para definir una función en Python?",
+      "opciones": ["A. function", "B. def", "C. define", "D. func"],
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de estos NO es un tipo de dato básico en Python?",
+      "opciones": ["A. int", "B. float", "C. string", "D. array"],
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "¿Qué método se usa para añadir un elemento al final de una lista?",
+      "opciones": ["A. append()", "B. add()", "C. insert()", "D. push()"],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cómo se escribe un comentario de una línea en Python?",
+      "opciones": ["A. // Comentario", "B. /* Comentario */", "C. # Comentario", "D. -- Comentario"],
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Qué operador se usa para la división entera?",
+      "opciones": ["A. /", "B. //", "C. %", "D. div"],
+      "respuesta_correcta": "B"
+    }
+  ],
+  "dificil": [
+    {
+      "pregunta": "¿Qué es un módulo en Python?",
+      "opciones": [
+        "A. Un archivo con código Python reutilizable",
+        "B. Una función predefinida",
+        "C. Un tipo de dato especial",
+        "D. Una biblioteca externa"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué hace el método __init__ en una clase?",
+      "opciones": [
+        "A. Destruye el objeto",
+        "B. Inicializa el objeto (constructor)",
+        "C. Convierte el objeto a string",
+        "D. Compara dos objetos"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Qué significa 'immutable' en Python?",
+      "opciones": [
+        "A. Que no se puede cambiar después de crearse",
+        "B. Que ocupa mucha memoria",
+        "C. Que es muy rápido de procesar",
+        "D. Que solo contiene números"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué hace el método 'split()' en una cadena de texto?",
+      "opciones": [
+        "A. Divide la cadena en una lista de subcadenas",
+        "B. Une varias cadenas en una sola",
+        "C. Convierte la cadena a mayúsculas",
+        "D. Elimina espacios en blanco"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué hace 'try-except'?",
+      "opciones": [
+        "A. Maneja excepciones y errores",
+        "B. Intenta importar módulos",
+        "C. Prueba diferentes funciones",
+        "D. Ejecuta código condicional"
+      ],
+      "respuesta_correcta": "A"
+    }
+  ]
+}
